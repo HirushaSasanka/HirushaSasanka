@@ -6,10 +6,10 @@
 
 <!-- Typing animation -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Building+the+Future%2C+One+Line+at+a+Time+%F0%9F%9A%80;Flutter+%E2%80%A2+React+%E2%80%A2+Java+%E2%80%A2+AI%2FML+%E2%80%A2+Cloud;Turning+Ideas+into+Digital+Realities+%E2%9A%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Building+the+Future%2C+One+Line+at+a+Time+%F0%9F%9A%80;Web+%E2%80%A2+Mobile+%E2%80%A2+AI%2FML+%E2%80%A2+IOT+%E2%80%A2+Electronics+%E2%80%A2+DevOps;Turning+Ideas+into+Digital+Realities+%E2%9A%A1" alt="Typing SVG" />
 
 <br/>
-
+<br/><br/><br/><br/>
 <!-- Profile views + Follow badges -->
 
 <a href="https://github.com/HirushaSasanka">
