@@ -12,13 +12,10 @@
 
 <!-- Profile views + Follow badges -->
 
-<a href="https://github.com/IT21352676">
+<a href="https://github.com/HirushaSasanka">
   <img src="https://komarev.com/ghpvc/?username=it21352676&style=for-the-badge&color=00f5ff&label=PROFILE+VIEWS" alt="profile views"/>
 </a>
  
-<a href="https://github.com/IT21352676?tab=followers">
-  <img src="https://img.shields.io/github/followers/IT21352676?style=for-the-badge&color=7f00ff&labelColor=0d0d0d&label=FOLLOWERS" alt="followers"/>
-</a>
 
 </div>
 
@@ -28,13 +25,9 @@
 
 <div align="center">
 
-## `🌐 My Portfolio Universe`
-
 <a href="https://hirushauniverse.netlify.app" target="_blank">
-  <img src="assets/hirushauniverse.netlify.app_ (1).png" alt="Hirusha Universe Portfolio" width="90%" style="border-radius: 12px; border: 2px solid #00f5ff;"/>
+  <img src="assets/hirushauniverse.netlify.app_ (1).png" alt="Hirusha Universe Portfolio" width="100%" style="border-radius: 12px; border: 2px solid #00f5ff;"/>
 </a>
-
-`<br/><br/>`
 
 <a href="https://hirushauniverse.netlify.app" target="_blank">
   <img src="https://img.shields.io/badge/🚀%20VISIT%20PORTFOLIO-hirushauniverse.netlify.app-00f5ff?style=for-the-badge&labelColor=0d0d0d&color=00f5ff" alt="Portfolio"/>
@@ -67,7 +60,7 @@ const hirusha = {
 | **Projects**  |        [github.com/IT21352676](https://github.com/IT21352676)        |
 | **Portfolio** |  [hirushauniverse.netlify.app](https://hirushauniverse.netlify.app)  |
 | **LinkedIn**  | [hirusha-sasanka-hs67](https://linkedin.com/in/hirusha-sasanka-hs67) |
-|   **Email**   |                        hirusha@torchlabs.xyz                         |
+|   **Email**   |                     hirushasasanka8316@gmail.com                     |
 
 </div>
 
@@ -148,12 +141,6 @@ const hirusha = {
 ## `📊 GitHub Analytics`
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=HirushaSasanka&show_icons=true&theme=radical&bg_color=0d0d0d&border_color=00f5ff&title_color=00f5ff&icon_color=7f00ff&text_color=ffffff&hide_border=false" height="180" alt="GitHub Stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=HirushaSasanka&layout=compact&theme=radical&bg_color=0d0d0d&border_color=00f5ff&title_color=00f5ff&text_color=ffffff" height="180" alt="Top Languages"/>
-
-`<br/><br/>`
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=HirushaSasanka&theme=radical&background=0d0d0d&border=00f5ff&stroke=00f5ff&ring=7f00ff&fire=ff4500&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00f5ff&sideLabels=00f5ff&dates=888888" alt="GitHub Streak"/>
 
